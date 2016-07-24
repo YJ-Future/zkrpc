@@ -1,0 +1,12 @@
+# gloyofme template
+*.calss
+
+#Maven#
+target/
+
+#IDEA#
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
